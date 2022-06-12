@@ -1,0 +1,6 @@
+Jun 12 2022 11:56:40
+{"type":8192,"message":"Required parameter $partial_post_id follows optional parameter $next_style_ref","file":"C:\\xampp\\htdocs\\wordpress-v2\\wp-content\\plugins\\colibri-page-builder\\extend-builder\\data\\import.php","line":189}
+
+Jun 12 2022 11:56:43
+{"type":8192,"message":"Required parameter $partial_post_id follows optional parameter $next_style_ref","file":"C:\\xampp\\htdocs\\wordpress-v2\\wp-content\\plugins\\colibri-page-builder\\extend-builder\\data\\import.php","line":189}
+
